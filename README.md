@@ -1,12 +1,25 @@
 Simple Animated Login UI with Flutter.
 
-![Preview Image GIF](https://ibb.co/BPWFRzR)
 
-![Preview image Link](https://ibb.co/M2MhBHN)
+
+
+
+
+
+![Image of GIF](https://i.ibb.co/RSrdWvW/ezgif-4-148ca3d9825f.gif)
+
+
+
+
+
+
+
+![Image of Dot](https://i.ibb.co/NVZ3TqY/Whats-App-Image-2020-06-26-at-5-30-45-PM.jpg)
 
 # particle
 
 A new Flutter project.
+Medium Article Link:- https://medium.com/@sahrudaysherla/create-awesome-looking-ui-with-particle-animations-on-flutter-633c1bdbb4d9
 
 ## Getting Started
 
